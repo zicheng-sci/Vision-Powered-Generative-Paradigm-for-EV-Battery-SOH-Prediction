@@ -1,5 +1,3 @@
-# Vision-Powered Generative Paradigm for Robust Battery Health Prediction in Real-World Electric Vehicles
-
 This repository contains the code for the paper:
 
 **Vision-powered generative paradigm for robust battery health prediction in real-world electric vehicles**
